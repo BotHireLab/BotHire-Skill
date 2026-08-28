@@ -1,0 +1,5 @@
+# Files kept in the repo but excluded from the published skill bundle
+README.md
+LICENSE
+.git/
+.gitignore
